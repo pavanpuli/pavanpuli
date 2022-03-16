@@ -1,4 +1,4 @@
-[![Pavan Puli , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Manish%20Reddy%20)](https://pavanpuli.com)
+[![Pavan Puli , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Pavan%20Puli%20)](https://pavanpuli.com)
 
 - 🌱Dedicated and aspiring full-stack web developer. Self motivated and effective in performing tasks. Enthusiastic towards working actively in an organization and accepting
 challenges to help improve my technical skills and benefit the organization.
