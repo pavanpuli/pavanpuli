@@ -142,7 +142,7 @@ challenges to help improve my technical skills and benefit the organization.
 
 ---
 ### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Manish001234&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pavanpuli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
 ⭐️ From [@Pavan](https://github.com/pavanpuli)
